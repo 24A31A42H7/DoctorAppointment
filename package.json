@@ -1,0 +1,14 @@
+{
+  "name": "doctorapointment",
+  "version": "1.0.0",
+  "description": "MediCareBook - Doctor Appointment Booking System",
+  "scripts": {
+    "install-all": "npm install && cd client && npm install && cd ../server && npm install",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm run dev\"",
+    "dev-server": "cd server && npm run dev",
+    "dev-client": "cd client && npm run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
