@@ -2,7 +2,7 @@
 
 **Date:** 31 January 2025  
  
-**Project Name:**BookMyDoc
+**Project Name:**BookMyDoctor
 **Maximum Marks:** 4 Marks
 
 ---
