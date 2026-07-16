@@ -1,8 +1,8 @@
 # User Acceptance Testing (UAT) Template
 
 **Date:** 03 March 2025  
-**Team ID:** MERN-MED-01  
-**Project Name:** MedConsult – Book a Doctor (Telemedicine Platform)  
+**Team ID:**
+**Project Name:**BookMyDoctor
 **Maximum Marks:** As specified
 
 ---
