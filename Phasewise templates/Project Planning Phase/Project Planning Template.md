@@ -1,8 +1,8 @@
 # Project Planning Phase — Product Backlog, Sprint Planning & Story Points
 
 **Date:** 15 February 2025  
-**Team ID:** MERN-MED-01  
-**Project Name:** MedConsult – Book a Doctor (Telemedicine Platform)  
+**Team ID:** 
+**Project Name:** BookMyDoctor
 **Maximum Marks:** 5 Marks
 
 ---
