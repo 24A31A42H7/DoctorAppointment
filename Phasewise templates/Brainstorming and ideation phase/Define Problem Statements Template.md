@@ -1,8 +1,8 @@
 # Ideation Phase — Define the Problem Statements
 
 **Date:** 31 January 2025  
-**Team ID:** MERN-MED-01  
-**Project Name:** MedConsult – Book a Doctor (Telemedicine Platform)  
+**Team ID:** 
+**Project Name:** BookMyDoctor
 **Maximum Marks:** 2 Marks
 
 ---
