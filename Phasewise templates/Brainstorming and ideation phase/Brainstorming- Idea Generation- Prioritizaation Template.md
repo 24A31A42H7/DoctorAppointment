@@ -1,8 +1,8 @@
 # Brainstorm & Idea Prioritization Template
 
 **Date:** 31 January 2025  
-**Team ID:** MERN-MED-01  
-**Project Name:** MedConsult – Book a Doctor (Telemedicine Platform)  
+ 
+**Project Name:**BookMyDoc
 **Maximum Marks:** 4 Marks
 
 ---
